@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=4370178,RESOLUTION=1920x1080,FRAME-RATE=60,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=22194&extension=m3u8
+http://ghosttv.art/play/live.php?mac=00:1B:79:F8:59:0E&stream=22194&extension=m3u8
