@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+http://server.stream-one.fun/play/live.php?mac=00:1A:79:f5:47:6e&stream=1303871&extension=m3u8
