@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
-http://iptv12k.com:35461//live/m241228343932464/111111/5704.m3u8
+http://server.stream-one.fun/play/live.php?mac=00:1A:79:f5:47:6e&stream=858757&extension=m3u8
