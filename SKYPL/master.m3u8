@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=10511&extension=m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/66871.m3u8
